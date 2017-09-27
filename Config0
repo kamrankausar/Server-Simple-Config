@@ -1,0 +1,6 @@
+# login to server with ssh and key
+
+Step 1:- Download the key
+Step 2:- Move into that folder (cd /home/genius/Downloads)
+Step 4:- Open the Gnome-Terminal or shell
+Step 3:- $ sudo ssh -i Name_of_Key_File root@Server_Ip_Address
